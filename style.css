@@ -20,12 +20,15 @@ h1 {
 }
 #mi {
     color: red;
+    font-size: larger;
 }
 #health {
     color: rgb(75, 194, 127);
+    font-size: larger;
 }
 ul {
     display: flex;
+    padding-right: 45px;
 }
 li {
     display: inline;
